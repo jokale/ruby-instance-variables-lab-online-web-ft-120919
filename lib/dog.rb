@@ -1,4 +1,3 @@
 class Dog 
-  
-dog_name = "Lassie"
+  dog_name = "Lassie"
 end 
