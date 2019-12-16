@@ -1,7 +1,7 @@
 class Dog 
   
   def this_dogs_name
-  dog_name = "Lassie"
-  puts dog_name
-end 
+    lassie = Dog.new
+      lassie.name = 'Lassie'
+      end 
 end 
